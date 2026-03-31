@@ -1,3 +1,6 @@
+🌐 Live Demo  
+https://edizbudak.github.io/Grade-calculator/
+
 📌 Project Title
 
 Weighted Grade Calculator
